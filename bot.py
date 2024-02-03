@@ -5,7 +5,7 @@ import random
 import time
 from numba import njit
 
-TOKEN = "MTExMjMyNzUwNTE3NzczOTI2NQ.GUcd1W.7cD6ZNjRoljAElVlOTD3RCKJ6_ei9C0jDutUJU"
+TOKEN = ""
 
 intents = discord.Intents.all()
 intents.webhooks = True
